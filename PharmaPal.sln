@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaPal", "PharmaPal\PharmaPal.csproj", "{2911C79A-B673-4F81-864B-17B97938A108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2911C79A-B673-4F81-864B-17B97938A108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2911C79A-B673-4F81-864B-17B97938A108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2911C79A-B673-4F81-864B-17B97938A108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2911C79A-B673-4F81-864B-17B97938A108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6CF931-578E-4AF7-8F1F-51F0A6F28FD9}
+	EndGlobalSection
+EndGlobal
